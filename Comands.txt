@@ -1,0 +1,18 @@
+// Limpar cache yarn
+yarn cache clean
+
+// Abrir com Metro
+npx react-native start
+
+// Buildar android virtual
+Em outra aba 
+npx react-native run-android
+
+// Formatar datas
+import { format } from 'date-fns';
+
+// Gerar APK
+na pasta android 
+gradlew assembleRelease
+
+

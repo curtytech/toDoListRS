@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Rockettodolist",
+    "slug": "Rockettodolist",
+    
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
+
